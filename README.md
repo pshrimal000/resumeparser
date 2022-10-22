@@ -4,9 +4,9 @@
 ##### pip install pdfminer.six
 ##### pip install pandas
 
-### Discription:
-##### Basic resume parser to extract Email and Contact No. from pdf and docx format only
-##### Extracted data can be downloaded into csv format
+### Description:
+##### Basic resume parser to extract Email and Contact No. from .pdf and .docx format only
+##### Extracted data can be downloaded into .csv format
 ###### Note- install pdfminer.six under django virtual env
 
 ###### How it looks!
